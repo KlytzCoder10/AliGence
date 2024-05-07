@@ -1,0 +1,3 @@
+
+            <img class="top-image" src="Assets/Images/Ali-inside the phone.png" alt="Top Image">
+            <img class="bottom-image" src="Assets/Images/DNA sequencing technology.png" alt="Bottom Image"> 
